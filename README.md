@@ -21,9 +21,6 @@ This repository demonstrates the use of **Random Forests** for solving real-worl
 ---
 
 ### 🔧 Requirements
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Decision_Tree)
-![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Decision_Tree)
 Install required packages using:
 
 ```bash
@@ -64,3 +61,6 @@ This repo also supports:
 ### 📚 License
 
 This project is open-source under the [MIT License](LICENSE).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Random_Forest)
+![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Random_Forest)
